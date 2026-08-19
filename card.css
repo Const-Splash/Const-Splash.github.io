@@ -30,7 +30,7 @@
   text-shadow: 0 0 5px #00ff88;
   margin: 0;
 }
-.Card1 h2, .Card2 h3{
+.Card1 h2, .Card2 h2{
   color: #fff;
   text-shadow:0 0 8px rgba(255,255,255,0.4);
   letter-spacing: 2px;
